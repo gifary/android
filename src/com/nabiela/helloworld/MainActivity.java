@@ -15,7 +15,7 @@ public class MainActivity extends Activity{
 	EditText nama;
 	TextView alamat,outputAlamat;
 	
-	public final static String EXTRA_DATA_NAME = "com.nabiela.helloworld.name";
+	public final static String EXTRA_DATA_NAME = "com.nabiela.helloworld.a";
 	public final static String EXTRA_DATA_ALAMAT="com.nabiela.helloworld.address";
 	private final int REQUEST_ALAMAT_B=0;
 	
